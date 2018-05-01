@@ -1,1 +1,1 @@
-# myapp
+# eRiDE: Private Carpool Mobile App
